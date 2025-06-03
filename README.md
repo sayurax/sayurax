@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **at Informatics Institute of Technology**
 
-- 💬 Ask me about **Java,React,Python**
+- 💬 Ask me about **Java,React,Python,Go**
 
 - 📫 How to reach me **sayura758@gmail.com**
 
